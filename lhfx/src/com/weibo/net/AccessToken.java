@@ -18,6 +18,7 @@ package com.weibo.net;
 
 
 /**
+ * test 
  * An AcessToken class contains accesstoken and tokensecret.Child class of com.weibo.net.Token.
  * 
  * @author  (luopeng@staff.sina.com.cn zhangjie2@staff.sina.com.cn 官方微博：WBSDK  http://weibo.com/u/2791136085)
